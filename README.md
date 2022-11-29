@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Resume Builder App<br>👯 I’m looking to collaborate on React Carousel Library<br>🤝 I’m looking for help with NestJs CASL integration<br>
+🔭 I’m currently working on Kanban Board Web App<br>
 
 
 ## 🌐 Socials:
