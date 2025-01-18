@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kanban Board Web App<br>
+🔭 I’m currently Looking for Senior React Developer Roles, with some hands on experience with Springboot<br>
 
 
 ## 🌐 Socials:
