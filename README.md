@@ -63,7 +63,9 @@ System design and DevOps, with continued depth in backend development and cloud-
 - [Email](mailto:khanbeing9@gmail.com)
 
 
-## GitHub Trophies
+## GitHub Stats
 ![samik966 trophies](https://github-profile-trophy.vercel.app/?username=samik966&theme=dracula&row=1&column=6&no-bg=true&no-frame=true)
 
+
 ![samik966 streak badge](https://github-readme-streak-stats.herokuapp.com?user=samik966&theme=tokyonight)
+
