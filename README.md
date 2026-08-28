@@ -64,6 +64,6 @@ System design and DevOps, with continued depth in backend development and cloud-
 
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samik966&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=samik966&theme=onedark)
 
 [![](https://visitcount.itsvg.in/api?id=samik966&icon=1&color=5)](https://visitcount.itsvg.in)
